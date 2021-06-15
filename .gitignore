@@ -1,0 +1,5 @@
+# Project exclude paths
+/ly-common/target/
+/ly-gateway/target/
+/ly-item/y-item-service/target/
+/ly-registry/target/
