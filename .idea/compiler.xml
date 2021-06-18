@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ly-registry" />
         <module name="y-item-service" />
+        <module name="ly-upload" />
         <module name="ly-gateway" />
         <module name="ly-common" />
         <module name="ly-item-pojo" />
@@ -23,6 +24,7 @@
       <module name="ly-item" options="-parameters" />
       <module name="ly-item-pojo" options="-parameters" />
       <module name="ly-registry" options="-parameters" />
+      <module name="ly-upload" options="-parameters" />
       <module name="y-item-service" options="-parameters" />
     </option>
   </component>

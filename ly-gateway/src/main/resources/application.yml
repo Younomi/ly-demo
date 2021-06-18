@@ -12,6 +12,7 @@ zuul:
   prefix: /api
   routes:
     item-service: /item/** # 将商品微服务映射到/item/**
+    ly-upload: /upload/**
 hystrix:
   command :
     default:
